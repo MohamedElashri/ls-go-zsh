@@ -1,7 +1,7 @@
 # Project:  ls-go
 # File:     ls-go-plugin.zsh
 # Author:   Mohamed Elashri
-# Email:    muhammadelashri@gmail.com
+# Email:    mail@elashri.com
 
 
 if ! (( $+commands[ls-go] )); then
